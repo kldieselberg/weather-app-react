@@ -1,0 +1,22 @@
+.Main {
+  font-family: Roboto, sans-serif;
+  text-align: left;
+  margin-left: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f4f7f7;
+}
+
+.temp-container {
+  text-align: center;
+  font-size: 60px;
+}
+.humidity {
+  color: #aadada;
+}
+.wind {
+  color: #aadada;
+}
+.time-detail {
+  margin-top: 20px;
+}

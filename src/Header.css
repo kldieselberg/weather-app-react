@@ -1,0 +1,29 @@
+.Header {
+  font-family: "Open Sans", sans-serif;
+  font-family: "PT Sans", sans-serif;
+  font-family: "Roboto", sans-seri f;
+  margin-top: 25px;
+}
+.container {
+  background-color: #ffffff;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 50px 40px;
+}
+.search-input {
+  width: 200px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.submit-input {
+  width: 100px;
+  padding: 10px;
+  border: none;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #aadada;
+  color: white;
+}
