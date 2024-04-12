@@ -8,17 +8,17 @@ export default function Main() {
     <div className="Main">
       <Header />
       <div className="city">
-        <h1>Bangkok</h1>  
+        <h1>Bangkok</h1>
         <div className="temp-container">
-         <img
+          <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/few-clouds-day.png "
             className="icon"
-            width=""
+            alt=""
           />
-        <div className="detail">
-          <span className="temp">24</span>
-          <span className="deg">°C</span>
-        </div>
+          <div className="detail">
+            <span className="temp">24</span>
+            <span className="deg">°C</span>
+          </div>
         </div>
         <br />
         <div className="time-detail">
